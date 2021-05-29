@@ -38,6 +38,7 @@ section .txt-output {
   width: 70vw;
   max-width: 500px;
   resize: none;
+  border: 1px solid;
 }
 .footer {
   margin-top: 1.4rem;
